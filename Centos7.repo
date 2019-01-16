@@ -1,0 +1,5 @@
+[CentOS_Source]
+name=CentOS_Packages
+baseurl=ftp://192.168.3.1/Centos7
+enabled=1
+gpgcheck=0
