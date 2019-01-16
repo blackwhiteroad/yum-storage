@@ -1,0 +1,6 @@
+[Rhel7_Source]
+name=Rhel7_Packages
+baseurl=ftp://192.168.3.1/rhel7
+enabled=1
+gpgcheck=0
+
