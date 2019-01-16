@@ -1,0 +1,5 @@
+[Createrepo_Ansible]
+name=Ansible_Packages
+baseurl=ftp://192.168.3.1/pub/ansible
+enabled=1
+gpgcheck=0
